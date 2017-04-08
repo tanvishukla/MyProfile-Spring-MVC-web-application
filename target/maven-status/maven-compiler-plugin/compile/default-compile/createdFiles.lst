@@ -1,0 +1,6 @@
+com\Lab2\dao\Impl\ProfileDaoImpl.class
+com\Lab2\service\Impl\ProfileServiceImpl.class
+com\Lab2\controller\ProfileController.class
+com\Lab2\service\ProfileService.class
+com\Lab2\dao\ProfileDao.class
+com\Lab2\pack1\Profile.class
